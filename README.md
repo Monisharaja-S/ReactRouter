@@ -1,3 +1,7 @@
+<h1>React Router Task</h1>
+<img src="public/image.png">
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
